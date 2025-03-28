@@ -1,7 +1,7 @@
 # IrisApp
 
 ## Descrição
-IrisApp é um aplicativo mobile para gerenciamento de consultas oftalmológicas. Desenvolvido com React Native e Expo, o aplicativo permite aos usuários agendar consultas, visualizar histórico de atendimentos e gerenciar seu perfil médico.
+IrisApp é um aplicativo mobile para gerenciamento de consultas de optométricas e oftalmológicas. Desenvolvido com React Native e Expo, o aplicativo permite aos usuários agendar consultas, visualizar histórico de atendimentos e gerenciar seu perfil médico.
 
 ## Índice
 - Instalação
